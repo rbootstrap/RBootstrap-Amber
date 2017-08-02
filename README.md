@@ -4,7 +4,9 @@
 
 [Amber](http://rbootstrap.com/amber/) is a Training, Consulting, Insurance & Business theme for [Bootstrap](http://getbootstrap.com/) created by [RBootstrap](http://rbootstrap.com/).
 
-Check out the Demo at [https://rbootstrap.github.io/amber/](https://rbootstrap.github.io/amber/)
+## View Demo
+
+[Amber Training, Consulting, Insurance & Business theme](https://rbootstrap.github.io/amber/)
 
 ## Getting Started
 
@@ -14,7 +16,7 @@ To begin using this template, choose one of the following options to get started
 * Fork the repo
 
 ## Features
-* Uses the latest Stable version of Bootstrap - 3.3.7
+* Uses the latest Stable version of Bootstrap
 * Super Responsive
 * HTML Validated
 * Tested Across Firefox, Chrome, Safari, IE9, IE10, IE11, Edge
